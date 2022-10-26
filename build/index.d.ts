@@ -1,2 +1,3 @@
 import TestComponent from "./TestComponent/TestComponent";
-export { TestComponent };
+import TestBtn from "./TestBtn/TestBtn";
+export { TestComponent, TestBtn };
